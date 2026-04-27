@@ -9,7 +9,7 @@
 
 const projects = [
     {
-        category: "Canva/Gemini",
+        category: "Canva/Gems",
         icon: "layout",
         items: [
             {
@@ -45,7 +45,7 @@ const projects = [
         ]
     },
     {
-        category: "cursor/Antigravity",
+        category: "Cursor/Antigravity",
         icon: "zap",
         items: [
             {
