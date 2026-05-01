@@ -20,15 +20,31 @@ const projects = [
 
             {
                 title: "나라 수도 게임",
-                description: "대결을 하며 여러 나라의 수도를 알아볼 수 있도록 하는 교육용게.",
+                description: "대결을 하며 여러 나라의 수도를 알아볼 수 있도록 하는 교육용게임.",
                 link: "https://banhxeo86.github.io/capital/",
                 icon: "landmark"
             },          
 
+
+            {
+                title: "초등상담가 Gems",
+                description: "따뜻한 공감과 대화로 초등학생의 고민을 함께 나누는 Gems.",
+                link: "https://gemini.google.com/gem/17JUlJxjEZKoNayxW4oRb5eGEp6VAPUJp?usp=sharing",
+                icon: "message-circle"
+            },      
+
+            {
+                title: "글쓰기 도우미 Gems",
+                description: "초등학생 글쓰기 도우미 Gems.",
+                link: "https://gemini.google.com/gem/1NoM_EoTMAxtWRLrsZCrNbQdY1eIPAGx0?usp=sharing",
+                icon: "notebook-pen"
+            },      
+
+            
             
             {
                 title: "10만들기",
-                description: "10을 만들 수 있는 숫자를 찾아 연결하는 수학 임.",
+                description: "10을 만들 수 있는 숫자를 찾아 연결하는 수학 게임.",
                 link: "https://banhxeo86.github.io/plus10/",
                 icon: "school"
             },            
