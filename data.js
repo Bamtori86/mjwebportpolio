@@ -18,6 +18,16 @@ const projects = [
                 icon: "school"
             },
 
+
+            {
+                title: "우리반 활동 안내 타이머",
+                description: "활동 내용과 시간을 직접 입력하면 순서대로 자동 진행되는 맞춤형 수업 타이머.",
+                link: "https://c-geumsan.my.canva.site/myclasstodo",
+                icon: "alarm-clock-check"
+            },          
+
+
+            
             {
                 title: "나라 수도 게임",
                 description: "대결을 하며 여러 나라의 수도를 알아볼 수 있도록 하는 교육용게임.",
