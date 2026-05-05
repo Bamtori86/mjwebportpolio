@@ -6,6 +6,8 @@
  * - 아이콘 확인(https://lucide.dev/)
  */
 
+
+
 const projects = [
     {
         category: "Canva/Gemini/Gems",
