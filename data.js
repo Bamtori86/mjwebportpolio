@@ -37,6 +37,15 @@ const projects = [
 
 
             {
+                title: "스마트 좌석 배치도",
+                description: "학생 좌석 배치를 쉽게 바꿀 수 있도록 도와주는 웹.",
+                link: "https://banhxeo86.github.io/seat-sellect/",
+                icon: "replace"
+            },          
+
+            
+
+            {
                 title: "초등상담가 Gems",
                 description: "따뜻한 공감과 대화로 초등학생의 고민을 함께 나누는 Gems.",
                 link: "https://gemini.google.com/gem/17JUlJxjEZKoNayxW4oRb5eGEp6VAPUJp?usp=sharing",
