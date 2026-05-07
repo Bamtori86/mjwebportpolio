@@ -155,6 +155,23 @@ const projects = [
                 icon: "book-open-text"
             },
 
+
+             {
+                title: "실시간 OX 퀴즈(학생용)",
+                description: "정해진 주제에 대해 실시간으로 OX 반응을 보여주는 웹앱",
+                link: "https://interactive-ox-quiz.onrender.com/student",
+                icon: "users"
+            },
+
+
+             {
+                title: "실시간 OX 퀴즈(교사용)",
+                description: "정해진 주제에 대해 실시간으로 OX 반응을 보여주는 웹앱",
+                link: "https://interactive-ox-quiz.onrender.com/teacher",
+                icon: "users"
+            },
+            
+            
              {
                 title: "다했어요 체크리스",
                 description: "학생별 과제 활동 여부를 한 눈에 확인하고 관리하는 학급형 체크리스트 웹앱.",
