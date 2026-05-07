@@ -148,6 +148,14 @@ const projects = [
                 icon: "home"
             },
 
+{
+  title: "자기장 탐구실",
+  description: "초등 과학 교육과정 기반, 자석의 성질과 자기장을 힘 지향 그래프 알고리즘으로 시뮬레이션하는 인터랙티브 웹앱.",
+  link: "https://Banhxeo86.github.io/magnetic-field-lab/",
+  icon: "magnet"
+},
+
+            
              {
                 title: "우리가 만드는 사회 웹앱",
                 description: "개념기반 교육과정 운영을 위한 사회 교과 문제 출제 및 해설 생성 웹앱.",
