@@ -14,7 +14,7 @@ const projects = [
             {
                 title: "우리반 바탕화면",
                 description: "우리반과 관련된 정보를 Html로 만들어 배경화면으로 설정하는 자료입니다.",
-                link: "https://banhxeo86.github.io/-/",
+                link: "https://banhxeo86.github.io/batang/",
                 icon: "school"
             },
 
@@ -59,7 +59,12 @@ const projects = [
                 icon: "notebook-pen"
             },      
 
-            
+            {
+                title: "공학용 계산기",
+                description: "제미나이 캔버스로 쉽게 만드는 공학용 계산기.",
+                link: "https://gemini.google.com/share/13270d6dc0cd",
+                icon: "calculator"
+            },            
             
             {
                 title: "10만들기",
@@ -141,7 +146,23 @@ const projects = [
                 description: "Antigravity로 제작한 연구회 공식 홈페이지입니다.",
                 link: "https://aionweb-xi.vercel.app/",
                 icon: "home"
+            },
+
+             {
+                title: "우리가 만드는 사회 웹앱",
+                description: "개념기반 교육과정 운영을 위한 사회 교과 문제 출제 및 해설 생성 웹앱.",
+                link: "https://service-69394360653.asia-south1.run.app/",
+                icon: "book-open-text"
+            },
+
+             {
+                title: "다했어요 체크리스",
+                description: "학생별 과제 활동 여부를 한 눈에 확인하고 관리하는 학급형 체크리스트 웹앱.",
+                link: "https://purplewinterblue.github.io/checklist/",
+                icon: "square-check-big"
             }
+            
+            
         ]
     },
     {
